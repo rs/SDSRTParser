@@ -1,6 +1,8 @@
 SDSRTParser
 ===========
 
+[![Build Status](https://travis-ci.org/rs/SDSRTParser.png?branch=master)](https://travis-ci.org/rs/SDSRTParser)
+
 SDSRTParser is an easy to use Objective-C SRT subtitle parser.
 
 Sample usage example:
